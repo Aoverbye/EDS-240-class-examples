@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
+#ignore
+
+EDS-240-class-examples.Rproj/
