@@ -4,7 +4,7 @@
 
 ## Purpose
 
-This is a repository for activities done in EDS-240: Data Visualization and Communication at THE University of California, Santa Barbara. This class uses the R coding language and focuses on skills such as choosing appropriate kinds of visualization depending on the data and audience, preparing data so it can be used effectively, and ensuring data is presented in ways that are not only accurate but also aesthetically appealing. This class is a part of the Master of Environmental Data Science (MEDS) program at UCSB.
+This is a repository for activities done in EDS-240: Data Visualization and Communication at the University of California, Santa Barbara. This class uses the R coding language and focuses on skills such as choosing appropriate kinds of visualization depending on the data and audience, preparing data so it can be used effectively, and ensuring data is presented in ways that are not only accurate but also aesthetically appealing. This class is a part of the Master of Environmental Data Science (MEDS) program at UCSB.
 
 ## Repository Structure
 
