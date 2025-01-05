@@ -13,6 +13,7 @@ This is a repository for activities done in EDS-240: Data Visualization and Comm
 ├───README.md
 ├───.gitignore
 ├───week1
+  └───TEMPLATE-lecture1.3-ggplot-review.qmd
 ├───week10
 ├───week2
 ├───week3
