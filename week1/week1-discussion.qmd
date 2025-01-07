@@ -1,0 +1,7 @@
+---
+title: "week1-discussion"
+author: "Amanda Overbye"
+format: html
+editor: visual
+---
+
