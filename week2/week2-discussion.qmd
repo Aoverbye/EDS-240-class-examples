@@ -89,4 +89,3 @@ drought_clean |>
   
 
 ```
-

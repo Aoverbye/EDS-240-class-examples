@@ -1,0 +1,31 @@
+---
+title: "week3-discussion.qmd"
+author: "Amanda Overbye"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+#| eval: true
+#| echo: false
+#| warning: false
+#| message: false
+#| fig-alt: "A histogram of penguin body mass and frequency colored based on penguin species. With Adelie penguins having the most frequency of the lower body masses, and gento having the most frequency of the higher body mass"
+ 
+library(ggplot2)
+library(palmerpenguins)
+
+ggplot(data = penguins, aes(x = body_mass_g, fill = species)) +
+  geom_histogram(alpha = 0.5, 
+                 position = "identity") +
+  scale_fill_manual(values = c("darkorange","purple","cyan4")) +
+  labs(x = "Body mass (g)",
+       y = "Frequency",
+       title = "Penguin body masses")
+```
+
+![](week3/week3-discussion_files/nyt-monthly-temp.png){fig-alt="Alt text goes here"}
+
+<img src="]EDS-240-class-examples\week3\chapman-etal-2024.png" alt="Alt text goes here" width="700px"/>
